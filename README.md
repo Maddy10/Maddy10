@@ -61,7 +61,7 @@ This profile is named `confused-by-null` to honor the real MVP of machine learni
 
 ---
 
-## 🧠 Who Am I?
+## 👨‍💻 About the Human Behind the Code
 
 I’m a curious, hands-on **Data Scientist** passionate about solving problems with machine learning, AI automation, and compelling visualizations. I specialize in:
 
@@ -86,7 +86,7 @@ I’m a curious, hands-on **Data Scientist** passionate about solving problems w
 
 ---
 
-## 🚀 Career Goals
+## 💡 What’s Next in My Neural Network
 
 - Dive deeper into **Generative AI** and **LLM integration**
 - Build **real-time, scalable ML systems**
@@ -95,7 +95,7 @@ I’m a curious, hands-on **Data Scientist** passionate about solving problems w
 
 ---
 
-## 📫 Let's Connect
+## 🤖 Connect or Predict? Why Not Both
 
 Want to collaborate or just talk data? I'm always up for it!
 
