@@ -118,4 +118,12 @@ Want to collaborate or just talk data? I'm always up for it!
 > 🧹 *“Cleaning data is like cleaning your room: it never ends, but it feels good when it's done.”* 🧽  
 > 💡 *“Turning Data into Decisions, One Model at a Time.”* 📊
 
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maddy10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maddy10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 
