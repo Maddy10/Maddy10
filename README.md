@@ -60,7 +60,8 @@ Want to collaborate or just talk data? I'm always up for it!
 - 💬 Fun fact: If I had a dollar for every time I fixed a bug by restarting the kernel… I could probably train GPT-5 myself.
 
 ---
-<img src="https://raw.githubusercontent.com/Maddy10/Maddy10/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Maddy10/Maddy10/output/snake.svg" alt="GitHub Contribution Snake" />
+
 
 ###
 ---
