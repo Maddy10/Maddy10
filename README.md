@@ -2,7 +2,9 @@
 ### `confused-by-null` — because the data is never clean, and neither is my sleep schedule 😅
 
 **Data Scientist | AI Automation | ML Enthusiast | Data Storyteller**
+
 ---
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -42,8 +44,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
 </div>
+
 ---
-###
 
 📍 Hyderabad, Telangana, India  
 🎓 MSc Data Science @ GITAM University (Expected 2026)  
