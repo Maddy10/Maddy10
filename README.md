@@ -114,9 +114,6 @@ Want to collaborate or just talk data? I'm always up for it!
 </div>
 
 ###
----
-> 🧹 *“Cleaning data is like cleaning your room: it never ends, but it feels good when it's done.”* 🧽  
-> 💡 *“Turning Data into Decisions, One Model at a Time.”* 📊
 
 ---
 <div align="center">
@@ -125,5 +122,8 @@ Want to collaborate or just talk data? I'm always up for it!
 </div>
 
 ###
+---
+> 🧹 *“Cleaning data is like cleaning your room: it never ends, but it feels good when it's done.”* 🧽  
+> 💡 *“Turning Data into Decisions, One Model at a Time.”* 📊
 
 
