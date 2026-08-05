@@ -47,8 +47,7 @@
 
 ---
 
-📍 Hyderabad, Telangana, India  
-🎓 MSc Data Science @ GITAM University (Expected 2026)  
+📍 Hyderabad, Telangana, India    
 🎓 BSc Data Science @ Siddartha Degree College  
 🧠 Business Intelligence Intern @ iNeuron  
 
